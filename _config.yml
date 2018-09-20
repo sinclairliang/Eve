@@ -76,15 +76,15 @@ project-list:
 essays: true
 
 essay-list:
-    Online Store Price Tracker:
+    Blah:
         name: blah
         description: blah
         url: blah
-    Python Based Automated Grader:
+    Blah:
         name: blah
         description: blah
         url: blah
-    Arbitrary Precision Arithmetic:
+    Blah:
         name: blah
         description: blah
         url: blah
