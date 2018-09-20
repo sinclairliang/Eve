@@ -2,23 +2,23 @@
 name: Sinclair Liang
 bio: Software Developer
 
-description: Eve Adam's Personal Website
+description: Sinclair Liang's Personal Website
 
 # Profile picture
-picture: assets/images/profile.jpg
+picture: assets/images/profile1.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://github.com/sinclairliang
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+# twitter: mytwitter
+linkedin: https://www.linkedin.com/in/sinclair-liang-21b6278b/
+github: https://github.com/sinclairliang
+email: sinclair@sinclairliang.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,36 +45,32 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
+    - HTML, CSS
     - Python
-    - MySQL - MongoDB    
-    - Git    
+    - C
+    - Java
+    - MySQL - MongoDB 
+    - Git
+    - Linux/UNIX 
+    - Git
 
 # do you want to display a projects section? true or false
 projects: true
 
 # add your projects here
 project-list:
-    Eve:
-        name: Eve
-        description: Ultra Minimal Single-page Jekyll Template for Building Personal Portfolio Websites
-        url: https://github.com/jibolash/Eve
-    World-Cup-History:
-        name: World Cup  History
-        description: npm package for FIFA World cup historical data
-        url: https://github.com/jibolash/world-cup-history
-    Tweeter:
-        name: Tweeter
-        description: A Twitter inspired web application built with Angular 5
-        url: https://tweetermum.herokuapp.com
-    Transcend:
-        name: Transcend
-        description: An android app for meditation and mindfulness
-        url: https://github.com/Khosbayar/Transcend
+    Online Store Price Tracker:
+        name: Online Store Price Tracker(on going)
+        description: An online application that can monitor prices and notifies users once prices reach
+        url: https://github.com/sinclairliang/Online_Store_Price_Tracker
+    Python Based Automated Grader:
+        name: Python Based Automated Grader
+        description: A python program to automate the grading process for my grader position
+        url: https://github.com/sinclairliang/Python-Grader
+    Arbitrary Precision Arithmetic:
+        name: Arbitrary Precision Arithmetic
+        description: Built a data type in Java and C to avoid overflow in mathematical calculations
+        url: https://github.com/sinclairliang/Coursework/tree/master/CMPS101/CMPS101S18PA1
 
 
 # do you want to display the theme attribution? true or false
