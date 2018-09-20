@@ -76,17 +76,17 @@ essays: true
 
 essay-list:
     Online Store Price Tracker:
-        name: Online Store Price Tracker(on going)
-        description: An online application that can monitor prices and notifies users once prices reach
-        url: https://github.com/sinclairliang/Online_Store_Price_Tracker
+        name: blah
+        description: blah
+        url: blah
     Python Based Automated Grader:
-        name: Python Based Automated Grader
-        description: A python program to automate the grading process for my grader position
-        url: https://github.com/sinclairliang/Python-Grader
+        name: blah
+        description: blah
+        url: blah
     Arbitrary Precision Arithmetic:
-        name: Arbitrary Precision Arithmetic
-        description: Built a data type in Java and C to avoid overflow in mathematical calculations
-        url: https://github.com/sinclairliang/Coursework/tree/master/CMPS101/CMPS101S18PA1
+        name: blah
+        description: blah
+        url: blah
 
 
 # do you want to display the theme attribution? true or false
