@@ -2,7 +2,7 @@
     {% for essay_hash in site.essay-list %}
     {% assign essay = essay_hash[1] %}
         <div class="item">
-                <a class="url" href="{{ essays.url }}">
+                <a class="url" href="{{ essay.url }}">
                     <h3 class="title">{{ essay.name }}</h3>
                 </a>
                 <p class="description">{{ essay.description }}</p>        
