@@ -5,7 +5,7 @@ bio: Software Developer
 description: Sinclair Liang's Personal Website
 
 # Profile picture
-picture: https://github.com/sinclairliang/Sinclair/blob/master/assets/images/profile1.jpg
+picture: Sinclair/blob/master/assets/images/profile1.jpg
 
 # your url: http://USERNAME.github.io
 url: https://github.com/sinclairliang
@@ -16,8 +16,8 @@ social-media: true
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
 # twitter: mytwitter
-linkedin: https://www.linkedin.com/in/sinclair-liang-21b6278b/
-github: https://github.com/sinclairliang
+linkedin: sinclair-liang-21b6278b/
+github: sinclairliang
 email: sinclair@sinclairliang.com
 # google: mygoogle
 # instagram: myinstagram
