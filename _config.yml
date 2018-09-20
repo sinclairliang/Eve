@@ -46,6 +46,9 @@ skills: true
 
 # add your skills here
 skills-list:
+    - Data Structures
+    - Algorithms
+    - TCP/IP network protocols
     - HTML, CSS
     - Python
     - Bash
@@ -54,6 +57,7 @@ skills-list:
     - Git & Github
     - Linux/UNIX 
     - Postman
+
 
 # do you want to display a projects section? true or false
 projects: true
