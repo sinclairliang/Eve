@@ -73,21 +73,10 @@ project-list:
         description: Built a data type in Java and C to avoid overflow in mathematical calculations
         url: https://github.com/sinclairliang/Coursework/tree/master/CMPS101/CMPS101S18PA1
 
-essays: true
-
-essay-list:
-    Blah:
-        name: blah
-        description: blah
-        url: blah
-    Blah:
-        name: blah
-        description: blah
-        url: blah
-    Blah:
-        name: blah
-        description: blah
-        url: blah
+    On Perfection:
+        name: On Perfection
+        description: On Perfection
+        url: https://github.com/OnPerfection
 
 
 # do you want to display the theme attribution? true or false
