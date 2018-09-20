@@ -76,7 +76,7 @@ project-list:
     On Perfection:
         name: On Perfection
         description: Essay talked Perfection in Lebniz's monadology framwork
-        url: https://github.com/sinclairliang/Sinclair/raw/master/assets/essays/On_Perfection.pdf
+        url: https://github.com/sinclairliang/Sinclair/blob/master/assets/essays/On_Perfection.pdf
     Of Personal Identity:
         name: Of Personal Identity
         description: Essay talked constants in Identity in this ever evolving reality 
