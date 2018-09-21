@@ -82,8 +82,8 @@ project-list:
         description: A comparison essay talks different theories on Substances, especially in this digital era
         url: https://www.keepandshare.com/doc15/19501/sketching-or-painting-theories-of-substances-pdf-183k?da=y
 
-    Theries of Substance:
-        name: Sketching or Painting? Theories of Substances
+    Research Paper:
+        name: research paper
         description: A research paper talks about connections and commonalities between Western and Eastern philosophy, focusing on Tao Te Ching and Pre-Socratic philosopher Heraclitus. Mainly on Ontology and Metaphysics. 
         url: https://www.keepandshare.com/doc15/19500/research-paper-pdf-118k?da=y
 
@@ -99,6 +99,9 @@ project-list:
 
 # do you want to display the theme attribution? true or false
 footer: true
+
+# Google Analytics
+google_analytics: UA-126214763-1
 
 # Enable animations? true or false
 animation: true
