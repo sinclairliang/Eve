@@ -29,4 +29,14 @@
         </ul>
     </nav>
     {% include projects.html %}
+
+    {% if site.essays %}
+    <nav class="nav-home">
+        <ul class="list">
+            <li class="item">
+                <h2>Essays</h2>
+            </li>
+        </ul>
+    </nav>
+    {% include essays.html %}
 {% endif %}

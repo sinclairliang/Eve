@@ -77,6 +77,9 @@ project-list:
         description: Built a data type in Java and C to avoid overflow in mathematical calculations
         url: https://github.com/sinclairliang/Coursework/tree/master/CMPS101/CMPS101S18PA1
 
+
+essays: true
+essay-list:
     Theries of Substance:
         name: Sketching or Painting? Theories of Substances
         description: A comparison essay talks different theories on Substances, especially in this digital era
@@ -95,7 +98,7 @@ project-list:
         name: Of Personal Identity
         description: Essay talks about constants in Identity in this ever evolving reality 
         url: https://www.keepandshare.com/doc15/19498/of-personal-identity-pdf-193k?da=y
-
+    
 
 # do you want to display the theme attribution? true or false
 footer: true
