@@ -31,7 +31,7 @@
     {% include projects.html %}
 {% endif %}
 
-    {% if site.essays %}
+{% if site.essays %}
     <nav class="nav-home">
         <ul class="list">
             <li class="item">
@@ -40,4 +40,10 @@
         </ul>
     </nav>
     {% include essays.html %}
+{% endif %}
+
+{% if site.contact %}
+    <nav class="nav-home">
+    </nav>
+    {% include contact.html %}
 {% endif %}
