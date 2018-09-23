@@ -100,7 +100,8 @@ essay-list:
         description: A comparison essay talks about different theories on Substances, especially in this digital era
         url: https://www.keepandshare.com/doc15/19501/sketching-or-painting-theories-of-substances-pdf-183k?da=y
 
-contact:true
+
+contact: true
 
 # do you want to display the theme attribution? true or false
 footer: true
