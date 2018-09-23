@@ -80,24 +80,26 @@ project-list:
 
 essays: true
 essay-list:
-    Theries of Substance:
-        name: Sketching or Painting? Theories of Substances
-        description: A comparison essay talks different theories on Substances, especially in this digital era
-        url: https://www.keepandshare.com/doc15/19501/sketching-or-painting-theories-of-substances-pdf-183k?da=y
+    Of Personal Identity:
+        name: Of Personal Identity
+        description: Essay talks about constants in Identity in this ever evolving reality 
+        url: https://www.keepandshare.com/doc15/19498/of-personal-identity-pdf-193k?da=y
+
+    On Perfection:
+        name: On Perfection
+        description: Essay talks about Perfection in Lebniz's monadology framwork
+        url: https://www.keepandshare.com/doc15/19499/on-perfection-pdf-67k?da=y
 
     Research Paper:
         name: Bridging Eastern and Western philosophy
         description: A research paper talks about connections and commonalities between Western and Eastern philosophy, focusing on Tao Te Ching and Pre-Socratic philosopher Heraclitus. Mainly on Ontology and Metaphysics. 
         url: https://www.keepandshare.com/doc15/19500/research-paper-pdf-118k?da=y
 
-    On Perfection:
-        name: On Perfection
-        description: Essay talks about Perfection in Lebniz's monadology framwork
-        url: https://www.keepandshare.com/doc15/19499/on-perfection-pdf-67k?da=y
-    Of Personal Identity:
-        name: Of Personal Identity
-        description: Essay talks about constants in Identity in this ever evolving reality 
-        url: https://www.keepandshare.com/doc15/19498/of-personal-identity-pdf-193k?da=y
+    Theries of Substance:
+        name: Sketching or Painting? Theories of Substances
+        description: A comparison essay talks about different theories on Substances, especially in this digital era
+        url: https://www.keepandshare.com/doc15/19501/sketching-or-painting-theories-of-substances-pdf-183k?da=y
+
     
 
 # do you want to display the theme attribution? true or false
