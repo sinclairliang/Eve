@@ -65,7 +65,7 @@ projects: true
 # add your projects here
 project-list:
     Online Store Price Tracker:
-        name: Online Store Price Tracker(🚧on going🚧)
+        name: Online Store Price Tracker(🚧ongoing🚧)
         description: An online application that can monitor prices and notifies users once prices reach
         url: https://github.com/sinclairliang/Online_Store_Price_Tracker
     Python Based Automated Grader:
