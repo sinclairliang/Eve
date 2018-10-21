@@ -49,7 +49,7 @@ skills-list:
     - Data Structures
     - Algorithms
     - TCP/IP network protocols
-    - HTML, CSS
+    - HTML5/CSS3
     - Python
     - Bash
     - Java & C
@@ -64,6 +64,10 @@ projects: true
 
 # add your projects here
 project-list:
+    TrafficDump:
+        name: TrafficDump(🚧ongoing🚧)
+        description: a full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface
+        url: https://github.com/sinclairliang
     Online Store Price Tracker:
         name: Online Store Price Tracker(🚧ongoing🚧)
         description: An online application that can monitor prices and notifies users once prices reach
