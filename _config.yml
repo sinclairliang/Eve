@@ -66,7 +66,7 @@ projects: true
 project-list:
     TrafficDump:
         name: TrafficDump(🚧ongoing🚧)
-        description: a full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface
+        description: A full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface
         url: https://github.com/sinclairliang
     Online Store Price Tracker:
         name: Online Store Price Tracker(🚧ongoing🚧)
