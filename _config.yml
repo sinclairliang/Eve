@@ -66,19 +66,19 @@ projects: true
 project-list:
     TrafficDump:
         name: TrafficDump(🚧ongoing🚧)
-        description: A full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface
+        description: A full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface.
         url: https://github.com/sinclairliang
     Online Store Price Tracker:
         name: Online Store Price Tracker(🚧ongoing🚧)
-        description: An online application that can monitor prices and notifies users once prices reach
+        description: An online application that can monitor prices and notifies users once prices reach.
         url: https://github.com/sinclairliang/Online_Store_Price_Tracker
     Python Based Automated Grader:
         name: Python Based Automated Grader
-        description: A python program to automate the grading process for my grader position
+        description: A python program to automate the grading process for my grader position.
         url: https://github.com/sinclairliang/Python-Grader
     Arbitrary Precision Arithmetic:
         name: Arbitrary Precision Arithmetic
-        description: Built a data type in Java and C to avoid overflow in mathematical calculations
+        description: Built a data type in Java and C to avoid overflow in mathematical calculations.
         url: https://github.com/sinclairliang/Coursework/tree/master/CMPS101/CMPS101S18PA1
 
 
@@ -86,12 +86,12 @@ essays: true
 essay-list:
     Of Personal Identity:
         name: Of Personal Identity
-        description: Essay talks about constants in Identity in this ever evolving reality 
+        description: Essay talks about constants in Identity in this ever evolving reality.
         url: https://www.keepandshare.com/doc15/19522/of-personal-identity-pdf-60k?da=y
 
     On Perfection:
         name: On Perfection
-        description: Essay talks about Perfection in Lebniz's monadology framwork
+        description: Essay talks about Perfection in Lebniz's monadology framwork.
         url: https://www.keepandshare.com/doc15/19523/on-perfection-pdf-48k?da=y
 
     Research Paper:
@@ -101,7 +101,7 @@ essay-list:
 
     Theries of Substance:
         name: Sketching or Painting? Theories of Substances
-        description: A comparison essay talks about different theories on Substances, especially in this digital era
+        description: A comparison essay talks about different theories on Substances, especially in this digital era.
         url: https://www.keepandshare.com/doc15/19501/sketching-or-painting-theories-of-substances-pdf-183k?da=y
 
 
