@@ -51,8 +51,8 @@ skills-list:
     - TCP/IP network protocols
     - HTML5/CSS3
     - Python
-    - Bash
     - Java & C
+    - Bash 
     - MySQL & MongoDB 
     - Git & Github
     - Linux/UNIX 
@@ -69,7 +69,7 @@ project-list:
         description: A full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface.
         url: https://github.com/sinclairliang
     Online Store Price Tracker:
-        name: Online Store Price Tracker(🚧ongoing🚧)
+        name: Online Store Price Tracker
         description: An online application that can monitor prices and notifies users once prices reach.
         url: https://github.com/sinclairliang/Online_Store_Price_Tracker
     Python Based Automated Grader:
