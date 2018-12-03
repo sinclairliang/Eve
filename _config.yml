@@ -64,9 +64,13 @@ projects: true
 
 # add your projects here
 project-list:
+    Receipesy:
+        name: Receipesy
+        description: A social network for people to share, rate and discover recipes.
+        url: https://github.com/sinclairliang
     TrafficDump:
-        name: TrafficDump(🚧ongoing🚧)
-        description: A full stack Network Traffic app to analyze network traffic and present it in a graphical and list interface.
+        name: TrafficDump
+        description: A real-time full stack web application to analyze network traffic and present it in a graphical and list interface.
         url: https://github.com/sinclairliang
     Online Store Price Tracker:
         name: Online Store Price Tracker
