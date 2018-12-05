@@ -70,7 +70,7 @@ project-list:
         url: https://github.com/sinclairliang
     TrafficDump:
         name: TrafficDump
-        description: A real-time full stack web application to analyze network traffic and present it in a graphical and list interface.
+        description: A real-time full stack web application to analyze network traffic flows and present it in a graphical and list interface.
         url: https://github.com/sinclairliang
     Online Store Price Tracker:
         name: Online Store Price Tracker
