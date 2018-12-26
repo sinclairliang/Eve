@@ -64,6 +64,10 @@ projects: true
 
 # add your projects here
 project-list:
+    Books Cipher:
+        name: Books Cipher
+        description: A simple command line programme to perform books cipher to encrypt and decrypt any secret messages.
+        url: https://github.com/sinclairliang/Ciphers
     Receipesy:
         name: Receipesy
         description: A social network for people to share, rate and discover recipes.
